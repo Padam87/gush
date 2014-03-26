@@ -1,4 +1,3 @@
-## Gush
 
 Gush is a rapid git workflow for project maintainers and contributors that works
 with backend support for GitHub, Enterprise Github, and more!
